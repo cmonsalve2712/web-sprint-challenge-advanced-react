@@ -16,7 +16,7 @@ export default function ShoppingCart(props) {
               className="plant-button"
               onClick={() => props.removeFromCart(plant)}
             >
-              Remove
+              
             </button>
           </div>
         </div>
